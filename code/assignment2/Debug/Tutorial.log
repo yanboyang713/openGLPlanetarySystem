@@ -1,0 +1,32 @@
+﻿  ass2.cpp
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(126): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(126): warning C4305: 'initializing': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(233): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(236): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(387): warning C4305: '+=': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(405): warning C4305: '-=': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(421): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(431): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(442): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(443): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(448): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(449): warning C4305: 'argument': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(466): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(467): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(536): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(563): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(565): warning C4305: '+=': truncation from 'double' to 'float'
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(584): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(586): warning C4018: '<': signed/unsigned mismatch
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(598): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(604): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(610): warning C4018: '<': signed/unsigned mismatch
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(614): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(616): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(622): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(647): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(648): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(663): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\csci336\csci336\assessment\assessment2\newtestv3\tutorial\ass2.cpp(664): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Tutorial.vcxproj -> G:\csci336\csci336\assessment\assessment2\newtestv3\Debug\Tutorial.exe
+  Tutorial.vcxproj -> G:\csci336\csci336\assessment\assessment2\newtestv3\Debug\Tutorial.pdb (Full PDB)

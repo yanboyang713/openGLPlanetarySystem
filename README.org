@@ -1,0 +1,19 @@
+* Overview
+This project is an OpenGL program to create a simple planetary system using colour cubes to represent the “planets”.
+[[/img/overview.png]]
+
+* Construct the simple planetary system scene
+ - The scene consist of a large “sun” in the centre and four other “planets” that orbit the sun. Note that program contain the vertex specification of a single colour cube. The sun and the planets are to use the same vertex specification, I have used transformations to alter the position, size and rotation.
+ - Implement basic animation. Each planet is to orbit the sun. In addition, each planet also rotates about its own centre. The animation have updated based on frame time, so that the program updates consistently regardless of frame rate. The planetary orbits and rotation be in the horizontal plane, which rotation about the y-axis. Allow the user to toggle animation by pressing “p” on the keyboard.
+ - Randomise the size, orbit speed and rotation speed of the planets. When the user presses “r”, re-randomise these values. I have make sure the planets are smaller than the sun and the planet do not collide on their orbit paths.
+ - Display the orbit paths, which is the red circles.
+* Create a perspective camera
+- When the user presses “1”, the camera should be set to view the scene from a camera position like the one shown in above picture.
+- When the user presses “2”, the camera should view the scene from a top-down view.
+- The user also be able to control the camera using first person camera controls: WASD keys and mouse movement. Camera movement and rotation have consistent regardless of frame rate.
+* Each planet have the following unique characteristics:
+- First planet: is orientated like a diamond shape (use transformations)
+- Second planet: has a ring around the planet (the ring has random colours)
+- Third planet: has a “moon” orbiting the planet. The moon also rotates about its own centre
+- Fourth planet: gradually fades in and out between full colour and black colour
+- Offset each of the planetary orbits by a random amount. Where the orbit paths are not necessarily centred on the centre of the sun. These random orbits also be re-randomised when the user presses “r”.

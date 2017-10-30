@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tutorial.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ass2.cpp
+h:\csci336\assignment2\assignment2\ass2.cpp(126): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+h:\csci336\assignment2\assignment2\ass2.cpp(126): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\csci336\assignment2\assignment2\ass2.cpp(233): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(236): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(396): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(406): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(417): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\csci336\assignment2\assignment2\ass2.cpp(418): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\csci336\assignment2\assignment2\ass2.cpp(423): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\csci336\assignment2\assignment2\ass2.cpp(424): warning C4305: 'argument': truncation from 'double' to 'float'
+h:\csci336\assignment2\assignment2\ass2.cpp(441): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(442): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(511): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(538): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(540): warning C4305: '+=': truncation from 'double' to 'float'
+h:\csci336\assignment2\assignment2\ass2.cpp(559): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(561): warning C4018: '<': signed/unsigned mismatch
+h:\csci336\assignment2\assignment2\ass2.cpp(573): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(579): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(585): warning C4018: '<': signed/unsigned mismatch
+h:\csci336\assignment2\assignment2\ass2.cpp(589): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(591): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(597): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(622): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(623): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(638): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\csci336\assignment2\assignment2\ass2.cpp(639): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  assignment2.vcxproj -> H:\csci336\Assignment2\Debug\assignment2.exe
+  assignment2.vcxproj -> H:\csci336\Assignment2\Debug\assignment2.pdb (Full PDB)
